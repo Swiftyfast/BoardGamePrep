@@ -10,7 +10,7 @@ namespace BoardGamePrep
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This works");
+            //Console.WriteLine("◉");
         }
     }
 }

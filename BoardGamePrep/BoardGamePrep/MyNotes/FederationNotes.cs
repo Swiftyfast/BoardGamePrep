@@ -8,8 +8,8 @@ namespace BoardGamePrep.MyNotes
 {
     class FederationNotes
     {
-        static void Main(string[] args)
-        {
+        //static void Main(string[] args)
+        //{
             //Here is the basic notes for the federation gameplay
 
             //Put out three types of cards to start the game
@@ -19,6 +19,7 @@ namespace BoardGamePrep.MyNotes
 
             //PATH CARDS - Draw one per game to change to board at the beginning of the game
 
-        }
+            //Console.WriteLine("◉");
+        //}
     }
 }
