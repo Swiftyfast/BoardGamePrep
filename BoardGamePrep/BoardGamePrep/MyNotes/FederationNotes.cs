@@ -18,6 +18,14 @@ namespace BoardGamePrep.MyNotes
             //PROJECT CARDS - these are goals to be accomplished that will grant Prestige to the players. Could be completion of combat defense system, a space station construction project, or a portal network.
 
             //PATH CARDS - Draw one per game to change to board at the beginning of the game
+
+            //SHIP CARDS
+            //CAPTAIN CARDS
+            //BONUSES
+            //HULL DAMAGE CARDS
+            //MIDNIGHT EFFECT CARDS
+
+           //ENCOUNTER CARDS
             
         //}
     }
