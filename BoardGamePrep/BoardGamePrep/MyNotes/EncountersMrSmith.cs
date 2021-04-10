@@ -16,6 +16,8 @@ namespace BoardGamePrep.MyNotes
         //blah blah blah
         //Unexplored Frontier
         //blah blah blah
+        //Finisher location
+
 
     }
 }
