@@ -29,5 +29,23 @@ namespace BoardGamePrep.MyNotes
         //Check drive documentations to see progress
 
         //}
+
+
+        //Some stuff has been consolidated:
+        //Ship-Captain Cards
+        //Midnight Cards
+        //Upgrade Cards
+        //Damage Cards
+        //Outer Encounters
+        //Inner Encounters
+        //Protagonist Notespads (?)
+        //  Exploration Encounters
+        //Antagonist Notespads (?)
+        //Draldan Encounters
+        //  Mr Smith Encounters
+        //  Temporal Event Encounters
+        //  Interdemensional Encounters
+        //  Political Turmoil Encounters
+
     }
 }
