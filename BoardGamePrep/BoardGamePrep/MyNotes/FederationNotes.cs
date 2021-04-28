@@ -36,17 +36,17 @@ namespace BoardGamePrep.MyNotes
         //Midnight Cards                        (✓)
         //Upgrade Cards                         ()
         //Damage Cards                          ()
-        //Outer Encounters
-        //Inner Encounters
-        //Protagonist Notespads (?)
-        //  Exploration Encounters
-        //Antagonist Notespads (?)
-        //  Draldan Encounters
-        //  Mr Smith Encounters
-        //  Temporal Event Encounters
-        //  Interdemensional Encounters
-        //  Political Turmoil Encounters
-        //  Illegal cloning Enocunters
+        //Outer Encounters                      ()
+        //Inner Encounters                      ()
+        //Protagonist Notespads (?)             ()
+        //  Exploration Encounters (?)          ()
+        //Antagonist Notespads (?)              ()
+        //  Draldan Encounters                  ()
+        //  Mr Smith Encounters                 ()
+        //  Temporal Event Encounters           ()
+        //  Interdemensional Encounters         ()
+        //  Political Turmoil Encounters        ()
+        //  Illegal cloning Enocunters          ()
 
     }
 }
