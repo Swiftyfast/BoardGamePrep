@@ -48,5 +48,12 @@ namespace BoardGamePrep.MyNotes
         //  Political Turmoil Encounters        ()
         //  Illegal cloning Enocunters          ()
 
+        //Order ==>
+        //1 Protagonist
+        //3 Antagonist->
+        //      Either Shark or Elders
+        //      Draldans
+        //      Randomly Rolled
+
     }
 }
