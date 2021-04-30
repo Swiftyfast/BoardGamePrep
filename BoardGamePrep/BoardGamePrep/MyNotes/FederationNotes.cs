@@ -41,7 +41,7 @@ namespace BoardGamePrep.MyNotes
         //Protagonist Notespads (?)             ()
         //  Exploration Encounters (?)          ()Dont think I need this right now
         //Antagonist Notespads (?)              ()
-        //  Draldan Encounters                  ()
+        //  Draldan Encounters                  (There should be eight I blieve)
         //  Mr Smith Encounters                 ()
         //  Temporal Event Encounters           ()
         //  Interdemensional Encounters         ()
