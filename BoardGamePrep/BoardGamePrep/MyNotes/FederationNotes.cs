@@ -49,7 +49,7 @@ namespace BoardGamePrep.MyNotes
         //  Illegal cloning Enocunters          ()
 
         //Order ==>
-        //1 Protagonist
+        //1 Protagonist                         (✓)
         //3 Antagonist->
         //      Either Shark or Elders
         //      Draldans
