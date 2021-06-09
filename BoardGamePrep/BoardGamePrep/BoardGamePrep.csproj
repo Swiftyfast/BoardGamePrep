@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="MyNotes\EncounterGiantShark.cs" />
     <Compile Include="MyNotes\EncountersMrSmith.cs" />
+    <Compile Include="MyNotes\EncountersTimeParadox.cs" />
     <Compile Include="MyNotes\FederationNotes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
