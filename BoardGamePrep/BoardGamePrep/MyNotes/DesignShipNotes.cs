@@ -8,5 +8,6 @@ namespace BoardGamePrep.MyNotes
 {
     class DesignShipNotes
     {
+        //Notes go here
     }
 }
