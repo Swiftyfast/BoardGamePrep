@@ -12,6 +12,7 @@ namespace BoardGamePrep.MyNotes
         
         //HP: 15
         //Sensors: 4
+        //The reason we have sensors is if we had a sneak attack formation/strategy later.
 
         //Straife
         //Attack: 5
