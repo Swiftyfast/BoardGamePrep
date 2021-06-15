@@ -21,5 +21,7 @@ namespace BoardGamePrep.MyNotes
         //Base
         //Attack: 3
         //Evade: 1
+        //starts in the unexplored region
+        //has three different symbols that means it moves 1
     }
 }
