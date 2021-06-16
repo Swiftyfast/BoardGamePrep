@@ -14,7 +14,7 @@ namespace BoardGamePrep.MyNotes
         //Sensors: 4
         //The reason we have sensors is if we had a sneak attack formation/strategy later.
 
-        //Straife
+        //Straife //This might not be how you spell this
         //Attack: 5
         //Evade: 1
 
