@@ -23,5 +23,8 @@ namespace BoardGamePrep.MyNotes
         //Evade: 1
         //starts in the unexplored region
         //has three different symbols that means it moves 1
+
+
+        //Not sure how to make this dynamic in a game besides chnaging route?
     }
 }
