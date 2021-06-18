@@ -48,6 +48,7 @@
     <Compile Include="MyNotes\EncountersMrSmith.cs" />
     <Compile Include="MyNotes\EncountersTimeParadox.cs" />
     <Compile Include="MyNotes\FederationNotes.cs" />
+    <Compile Include="MyNotes\OtherItems.cs" />
     <Compile Include="MyNotes\ShipTypeExamples.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
