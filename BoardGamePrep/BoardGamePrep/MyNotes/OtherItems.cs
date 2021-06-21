@@ -12,5 +12,7 @@ namespace BoardGamePrep.MyNotes
         //like Majesty
         //Or Steampunk
         //OR scifi?
+
+        //check my notes app
     }
 }
